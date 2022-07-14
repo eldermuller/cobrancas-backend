@@ -1,13 +1,15 @@
-const express = require('express')
+const express = require('express');
+
 const { userRegister, userRegisterEmailValidation, getUser, updateUser } = require('./controllers/users');
 const { userLogin } = require('./controllers/usersLogin');
 const { registerClient, listAllClients, clientDetails, updateClient } = require('./controllers/clients');
 const loginFilter = require('./filters/loginFilter');
 const { registerCharge, getCharges, detailChargesClient, updateCharge, viewAll, deleteCharge } = require('./controllers/charge');
-const { search } = require('./controllers/search')
-const routes = express();
-const cors = require('cors');
+const { search } = require('./controllers/search');
 
+const routes = express();
+
+const cors = require('cors');
 routes.options('*', cors())
 
 routes.post('/login', userLogin);
