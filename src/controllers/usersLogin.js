@@ -22,7 +22,7 @@ const userLogin = async (req, res) => {
             return res.status(400).json("E-mail e/ou senha inválidos");
         }
 
-        const token = jwt.sign({ id: user.id }, process.env.PASSWORD_JWT, { expiresIn: '12h' });
+        const token = jwt.sign({ id: user.id }, process.env.PASSWORD_JWT, { expiresIn: '2h' });
 
         return res.status(200).json({
             id: user.id,
