@@ -8,6 +8,19 @@ A URL deste repositório deverá ser entregue na plataforma de alunos da Cubos A
 
 A versão final do código de cada sprint deverá estar na branch principal do repositório e sim, a cada semana acumulará as alterações das sprints, portanto a segunda sobrescrevendo a primeira e assim por diante.
 
+Projeto desenvolvido por:
+
+**Diogo Dimaz**:
+- LinkedIn: https://www.linkedin.com/in/diogo-dimazz/
+- GitHub: https://github.com/DiogoDimazz
+
+**Élder Müller**:
+- LinkedIn: https://www.linkedin.com/in/elder-muller/
+- GitHub: https://github.com/eldermuller
+
+**Gabriel**:
+- LinkedIn: https://www.linkedin.com/in/gabrielluiz000/
+- GitHub: https://github.com/Lgabz
 ---
 
 No fork de vocês, favor alterar este README para adicionar os links correspondentes para os seguintes itens:
