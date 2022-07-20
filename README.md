@@ -18,7 +18,7 @@ Projeto desenvolvido por:
 - LinkedIn: https://www.linkedin.com/in/elder-muller/
 - GitHub: https://github.com/eldermuller
 
-**Gabriel**:
+**Gabriel Luiz**:
 - LinkedIn: https://www.linkedin.com/in/gabrielluiz000/
 - GitHub: https://github.com/Lgabz
 ---
