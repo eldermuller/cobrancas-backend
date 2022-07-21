@@ -9,6 +9,6 @@ const knex = require('knex')({
             rejectUnauthorized: false
         }
     }
-})
+});
 
 module.exports = knex;
